@@ -1,4 +1,4 @@
-# A-University-Admission-Prediction-System-using-Stacked-Ensemble-Learning
+# A University Admission Prediction System using Stacked Ensemble Learning
 
 Please cite the following paper: <br/>
 A University Admission Prediction System using Stacked Ensemble Learning <br/>
